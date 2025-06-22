@@ -1,0 +1,7 @@
+C:\Users\VinaySadanandGawli\source\repos\Tut-HelloW\bin\Debug\Tut-HelloW.exe.config
+C:\Users\VinaySadanandGawli\source\repos\Tut-HelloW\bin\Debug\Tut-HelloW.exe
+C:\Users\VinaySadanandGawli\source\repos\Tut-HelloW\bin\Debug\Tut-HelloW.pdb
+C:\Users\VinaySadanandGawli\source\repos\Tut-HelloW\obj\Debug\Tut-HelloW.csproj.AssemblyReference.cache
+C:\Users\VinaySadanandGawli\source\repos\Tut-HelloW\obj\Debug\Tut-HelloW.csproj.CoreCompileInputs.cache
+C:\Users\VinaySadanandGawli\source\repos\Tut-HelloW\obj\Debug\Tut-HelloW.exe
+C:\Users\VinaySadanandGawli\source\repos\Tut-HelloW\obj\Debug\Tut-HelloW.pdb
